@@ -1,10 +1,10 @@
-.. new_project documentation master file, created by
-   sphinx-quickstart on Thu Oct 12 20:51:21 2023.
+.. ci-documentation documentation master file, created by
+   sphinx-quickstart on Thu Oct 12 21:14:06 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to new_project's documentation!
-=======================================
+Welcome to ci-documentation's documentation!
+============================================
 
 .. toctree::
    :maxdepth: 2
